@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yuman_19.aternos.me:43273",
+    "ip": "yuman_19.aternos.me",
     "port":43273,
     "version": "26.1.2",
     "try-creative": false
